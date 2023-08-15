@@ -1,0 +1,16 @@
+{
+    "name": "rc-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Neeraj Kumar",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.3.1",
+      "isomorphic-ws": "^5.0.0",
+      "ws": "^8.13.0"
+    }
+  }
